@@ -1,5 +1,7 @@
 package debug;
 
+Branch1加了这样的一行
+
 import java.io.*;
 import java.lang.Thread;
 
@@ -8,9 +10,10 @@ import java.lang.Thread;import java.io.*;
 import java.lang.Thread;
 package debug;
 
+Branch1删掉了一个“package debug;”
 import java.io.*;
 import java.lang.Thread;
-package debug;
+
 
 import java.io.*;
 import java.lang.Thread;
