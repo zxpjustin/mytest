@@ -16,6 +16,8 @@ import java.io.*;
 import java.lang.Thread;
 package debug;
 
+master在这里加了一行
+
 噶个案的水果vegergfgv
 import java.io.*;
 import java.lang.Thread;
@@ -25,8 +27,9 @@ import java.io.*;
 import java.lang.Thread;
 package debug;
 
+master在这里删了一个“import java.lang.Thread;”
 import java.io.*;
-import java.lang.Thread;
+
 package debug;
 
 import java.io.*;
