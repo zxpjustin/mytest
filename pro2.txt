@@ -3,6 +3,10 @@ package debug;
 import java.io.*;
 import java.lang.Thread;
 
+import java.io.*;
+import java.lang.Thread;import java.io.*;
+import java.lang.Thread;
+package debug;
 
 import java.io.*;
 import java.lang.Thread;
